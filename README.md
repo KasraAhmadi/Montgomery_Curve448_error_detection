@@ -1,6 +1,5 @@
-RTL code of Error detection capable Montgomery Ladder oveer curve 448 published in "Efficient Error Detection Cryptographic Architectures Benchmarked on FPGAs for Montgomery Ladder".
-Xilinx Vivado 2023.1 is used for synthesis.<br />
-Module hierarchy is as follow:
+RTL code of Error detection capable Montgomery Ladder over curve 448 published in "Efficient Error Detection Cryptographic Architectures Benchmarked on FPGAs for Montgomery Ladder".<br>
+Module hierarchy is as follow: 
 <ul>
  <li>Iterator.sv
  <ul style="list-style-type: lower-alpha; padding-bottom: 0;">
