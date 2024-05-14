@@ -17,5 +17,7 @@ Module hierarchy is as follow:
 </ul>
 <li>Error_detection.sv</li>
 </ul>
+<img src="https://github.com/KasraAhmadi/Montgomery_Curve448_error_detection/blob/main/diagram/design.png">
+
 
 
