@@ -1,10 +1,1 @@
-Module hierarchy is as follow:
-Iterator.sv---->Montgomery_step.sv
-          |                        |
-          |                         -----> core.sv
-          |                                        |
-          |                                        -----> adder.sv (Modular Addition)
-          |                                        |
-          |                                        -----> speed_mult_red (Modular Multiplication)
-          |                  
-          ---->Error_detection.sv
+This repository provides the RTL code of Error detection capable Montgomery Ladder oveer curve 448 published in "Efficient Error Detection Cryptographic Architectures Benchmarked on FPGAs for Montgomery Ladder"
