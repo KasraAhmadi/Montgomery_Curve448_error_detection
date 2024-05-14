@@ -1,4 +1,4 @@
-RTL code of Error detection capable Montgomery Ladder over curve 448 published in "Efficient Error Detection Cryptographic Architectures Benchmarked on FPGAs for Montgomery Ladder".<br>
+RTL code of Error detection capable Montgomery Ladder over curve 448 in "Efficient Error Detection Cryptographic Architectures Benchmarked on FPGAs for Montgomery Ladder".<br>
 Module hierarchy is as follow: 
 <ul>
  <li>Iterator.sv
